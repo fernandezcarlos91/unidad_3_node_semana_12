@@ -20,5 +20,8 @@
         ----routes/
             ----users.js
 
+# 6.- Creación del Main
+    ----app.js < - Este es el main de la aplicación 
 
+# 7.- 
 
