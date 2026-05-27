@@ -1,15 +1,16 @@
 # unidad_3_node_semana_12
 
 # 1.- Crear el proyecto en node
-    npm init -y
+    crear un proyecto con node.js con el comando en la terminal npm init -y
 
 # 2.- Instalar Express
-    nom i express
+    Realizar la instalación de un paquete de desarrollo
+    npm i express
 
 # 3.- Crear Estructura de Carpetas para el proyecto
-    src/
-    ----app.js
-    ----routes/
+    src/ Carpeta madre
+    ----app.js Main de la palicación
+    ----routes/ Carpeta para definir rutas
     ----middlewares/
 
 # 4.- Creación de Logger
