@@ -11,18 +11,20 @@
     src/ Carpeta madre
     ----app.js Main de la palicación
     ----routes/ Carpeta para definir rutas
-    ----middlewares/
+    ----middlewares/ Puentes
 
 # 4.- Creación de Logger
         ----middlewares/
-            ----logger.js
+            ----logger.js // Creamos el puente de la aplicación
 
 # 5.- Creación de una ruta 
         ----routes/
-            ----users.js
+            ----users.js // Se crea un usuario con daros parseado (meterlos a la mala) en la ruta. La ruta la usaremos para manejar la URL.
 
 # 6.- Creación del Main
-    ----app.js < - Este es el main de la aplicación 
+    Definimos el cerebro de la aplicación 
+    ----app.js 
+    
 
 # 7.- 
 
