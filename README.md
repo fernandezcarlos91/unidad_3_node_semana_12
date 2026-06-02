@@ -3,7 +3,12 @@
 # 1.- Crear el proyecto en node
     crear un proyecto con node.js con el comando en la terminal npm init -y
 
-# 2.- Instalar Express
+# 1.1.- Cómo descargamos el proyecto de otro lado:
+    Vamos a usar el siguiente comando para instalar dependencias de nodeModules
+
+    npm i
+
+# 2.- Instalar Express (para trabajar JavaScrip como servidor)
     Realizar la instalación de un paquete de desarrollo
     npm i express
 
@@ -25,6 +30,5 @@
     Definimos el cerebro de la aplicación 
     ----app.js 
     
-
 # 7.- 
 
