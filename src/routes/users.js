@@ -22,8 +22,8 @@ router.get('/:id',
 */
 
 let users = [
-    { id: 1, nombre: "Carlos", edad: 35},
-    { id: 2, nombre: "Cesar", edad: 20},
+    { id: 1, nombre: "Carlos Fernandez", edad: 35},
+    { id: 2, nombre: "Cesar Oñate", edad: 20},
     { id: 3, nombre: "Daniel", edad: 25},
 
 ];
